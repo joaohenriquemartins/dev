@@ -1,0 +1,2 @@
+
+'id','tipo_nota','natureza_operacao','regime_tributario','finalidade','serie','numero','numero_ecommerce','data_emissao','data_saida','hora_saida','nome','tipo_pessoa','cpf_cnpj','ie','endereco','numeroenderec','complemento','bairro','cep','cidade','uf','fone','email','cliente','endereco_entrega','tipo_pessoa','cpf_cnpj','ie','endereco','numeroend','complemento','bairro','cep','cidade','uf','fone','nome_destinatario','endereco_entrega','itens','id_produto','codigo','ricao','unidade','ncm','quantidade','valor_unitario','valor_total','cfop','natureza','item'

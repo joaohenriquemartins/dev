@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<retorno>
+  <status_processamento>3</status_processamento>
+  <status>OK</status>
+  <pagina>1</pagina>
+  <numero_paginas>1</numero_paginas>
+  <notas_fiscais>
+    <nota_fiscal>
+      <id>439995227</id>
+      <tipo>S</tipo>
+      <serie>1</serie>
+      <numero>000149</numero>
+      <numero_ecommerce/>
+      <data_emissao>11/01/2018</data_emissao>
+      <nome>henrique teste 1</nome>
+      <cliente>
+        <nome>henrique teste 1</nome>
+        <tipo_pessoa>F</tipo_pessoa>
+        <cpf_cnpj>182.334.983-86</cpf_cnpj>
+        <ie/>
+        <endereco>Rua teste</endereco>
+        <numero>4</numero>
+        <complemento>XVVF</complemento>
+        <bairro>Centro</bairro>
+        <cep>95.700-000</cep>
+        <cidade>Bento Gonçalves</cidade>
+        <uf>RS</uf>
+        <fone>(54) 1234-1234</fone>
+        <email>henrique1@tiny.com.br</email>
+      </cliente>
+      <endereco_entrega>
+        <tipo_pessoa>F</tipo_pessoa>
+        <cpf_cnpj>025.693.999-88</cpf_cnpj>
+        <endereco>Rua das flores</endereco>
+        <numero>5</numero>
+        <complemento>casa</complemento>
+        <bairro>Centro</bairro>
+        <cep>95.700-000</cep>
+        <cidade>Bento Gonçalves</cidade>
+        <uf>RS</uf>
+        <fone>(32) 1223-3411</fone>
+        <nome_destinatario>hnrique entgra</nome_destinatario>
+      </endereco_entrega>
+      <transportador>
+        <nome/>
+      </transportador>
+      <valor>165.51</valor>
+      <valor_produtos>152.34</valor_produtos>
+      <valor_frete>8.15</valor_frete>
+      <id_vendedor>0</id_vendedor>
+      <nome_vendedor/>
+      <situacao>1</situacao>
+      <descricao_situacao>Pendente</descricao_situacao>
+      <codigo_rastreamento>EE301798383BR</codigo_rastreamento>
+      <url_rastreamento>http://www.issoehumaurl.com</url_rastreamento>
+    </nota_fiscal>
+  </notas_fiscais>
+</retorno>
