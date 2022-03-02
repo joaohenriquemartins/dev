@@ -5,10 +5,10 @@ CREATE TABLE pesquisaPedidosTiny(
 
   ) ENGINE=MyISAM
 
-CREATE TABLE pedidosTiny(
+CREATE TABLE tiny_nfe_id(
   idreg bigint NOT NULL PRIMARY KEY AUTO_INCREMENT,
   timereg timestamp NOT NULL DEFAULT current_timestamp(),
-  id_tiny int NOT NULL,
+  id_tiny int NOT NULL UNIQUE
 
 
   ) ENGINE=MyISAM
